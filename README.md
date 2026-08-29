@@ -1,4 +1,4 @@
-LeetCode C++ Practice Series
+#LeetCode C++ Practice Series
 
 Welcome to my LeetCode C++ Practice Series 
 
@@ -6,7 +6,7 @@ This repository documents my journey of systematically improving my problem-solv
 
 
 
-Learning Philosophy
+#Learning Philosophy
 
 I am not only solving problems to get accepted by LeetCode. The main goal is to understand why a solution works, how to optimize it, and how to recognize similar patterns in future problems.
 
